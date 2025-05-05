@@ -2,11 +2,11 @@
 <li>
   Tecnologias que uso:
   <div>
-    Ract
-    JavaScript
-    HTML
-    CSS
-    Python
+    <li>Ract</li>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Python</li>
   </div>
 </li>
 <li>
