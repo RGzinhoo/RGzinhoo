@@ -1,8 +1,4 @@
-# Hi there!👋
-## Olá! 🙋‍♂️
-## Privet! 👌
-## Hola! 💩
-<!--
-- 🌱 I’m currently learning react, html, css, python, javascript, jsx
-- 📫 How to reach me: instagram RGzin.__2
--->
+# Aoba! Me chamo Rafael Gustavo e sou (quase) técnico em desinvolvimento de sistemas
+<li>
+  <p>Tecnologias que uso</p>
+</li>
