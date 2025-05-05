@@ -12,6 +12,7 @@
 <li>
   Redes sociais
   <div>
-    <a href="instagram.com/rgzin.__2?igsh=MThibzk3NjdscGFxdA==">RGzin__.2<a>
+    Insta:
+    RGzin__.2
   </div>
 </li>
